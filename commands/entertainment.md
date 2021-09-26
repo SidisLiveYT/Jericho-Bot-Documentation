@@ -54,6 +54,18 @@ dc!player fav play <Song ID/all>
 **You can Find your Favourite Songs List by -** **`dc!music fav list`**
 {% endhint %}
 {% endtab %}
+
+{% tab title="Shuffle Songs" %}
+```text
+dc!player shuffle
+```
+{% endtab %}
+
+{% tab title="Watch Queue" %}
+```
+dc!player queue
+```
+{% endtab %}
 {% endtabs %}
 
 ![Glimpse of Stage-Channel Support](../.gitbook/assets/1%20%281%29.png)
@@ -108,6 +120,12 @@ all - `Delete All Configs for the Server`**
 
 **After that Jericho will Delete for `New Voice/Music-logger-Channel` for the Server.**
 {% endtab %}
+
+{% tab title="Check Jericho Player" %}
+```text
+dc!player check
+```
+{% endtab %}
 {% endtabs %}
 
 ## 🎋 Radio Player 
@@ -130,6 +148,12 @@ dc!player delete <all>/<Voice>
 {% tab title="Edit Radio Player" %}
 ```text
 dc!player edit <radio>
+```
+{% endtab %}
+
+{% tab title="Radio Stations" %}
+```
+dc!player check radios
 ```
 {% endtab %}
 {% endtabs %}
