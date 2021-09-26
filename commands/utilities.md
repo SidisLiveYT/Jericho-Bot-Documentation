@@ -254,7 +254,7 @@ dc!reactions check <Message ID/all>
 {% endtab %}
 {% endtabs %}
 
-### 📣 Giveaways Manager
+###  [🎪](https://emojipedia.org/circus-tent/) Giveaways Manager
 
 1. **Auto : Jericho will Give the Description and in - future you can also Edit/Delete .**
 2. **Manual : You can Write your Own Message or Any Other Bot's Message , Just Mention the Message ID.**
