@@ -4,6 +4,26 @@ description: This page will have all the latest patch-notes of Jericho Bot.
 
 # Change Logs
 
+###  💫 **Jericho v0.4.7 - 26/9/21**
+
+* Added Radio Player
+* Added Giveaways Manager
+* Added 20+ Radio Stations with Auto-Update Feature
+* Added Advanced Question and Answers Procedure
+* Added Commands for Announcement Feature
+* Fixed Large Memory Leaks and Cache Overflow
+* Added Extra Permission Issue
+* FIxed Ratelimit Issue
+* Changed dc!music --&gt; dc!player Command \(Breaking Change \)
+* Updated Commands to support latest Common JS
+
+###  💫 **Jericho v0.4.6 - 30/6/21**
+
+* Added Additional Commands
+* Fixed Memory leaks
+* Added Watch party Feature
+* Fixed Database Migration issue
+
 ###  💫 **Jericho v0.4.5 - 30/5/21**
 
 #### Fixed
