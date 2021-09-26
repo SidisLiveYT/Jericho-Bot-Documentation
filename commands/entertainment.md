@@ -13,41 +13,41 @@ Jericho will Sing many `Songs/Playlists` from Youtube or Spotify with ease and S
 {% tabs %}
 {% tab title="Play a Song" %}
 ```text
-dc!music play <Song/Playlist - Name/Link>
+dc!player play <Song/Playlist - Name/Link>
 ```
 {% endtab %}
 
 {% tab title="Stop in Music Player" %}
 ```
-dc!music <stop> <force/Blank>
+dc!player <stop> <force/Blank>
 ```
 {% endtab %}
 
 {% tab title="Skip in Music Player" %}
 ```
-dc!music skip <position/blank> <force/blank>
+dc!player skip <position/blank> <force/blank>
 ```
 
 {% hint style="warning" %}
-**Position means the Track Number at Queue and can be found by -** **`dc!music queue`**
+**Position means the Track Number at Queue and can be found by -** **`dc!player queue`**
 {% endhint %}
 {% endtab %}
 
 {% tab title="Search in Youtube" %}
 ```
-dc!music search <Song-Name>
+dc!player search <Song-Name>
 ```
 {% endtab %}
 
 {% tab title="Save Songs in Current Track" %}
 ```
-dc!music fav <blank/queue>
+dc!player fav <blank/queue>
 ```
 {% endtab %}
 
 {% tab title="Play Songs in Saved List" %}
 ```
-dc!music fav play <Song ID/all>
+dc!player fav play <Song ID/all>
 ```
 
 {% hint style="success" %}
@@ -74,7 +74,7 @@ _**Note:-** The channel which has the logging feature will play or try to play e
 {% tabs %}
 {% tab title="Setup 24/7 Music Player" %}
 ```text
-dc!music setup
+dc!player setup
 ```
 
 The setup process is quite simple.  
@@ -86,7 +86,7 @@ Join a **Voice Channel** where you want the Jericho to be **`24/7 Active`**. Aft
 
 {% tab title="Edit 24/7 Music Player" %}
 ```text
-dc!music edit <Voice/Channel>
+dc!player edit <Voice/Channel>
 ```
 
 **Here,  
@@ -98,7 +98,7 @@ Channel - `Music Logger Channel (Music Player U.I.)`**
 
 {% tab title="Delete 24/7 Music Player" %}
 ```text
-dc!music delete <Voice/Channel/all>
+dc!player delete <Voice/Channel/all>
 ```
 
 **Here,  
@@ -117,19 +117,19 @@ Setup 24/7 Radio Player on your Server with Options of Many Radio Stations
 {% tabs %}
 {% tab title="Setup Radio Player" %}
 ```text
-dc!music setup
+dc!player setup
 ```
 {% endtab %}
 
 {% tab title="Delete Radio Player" %}
 ```text
-dc!music delete <all>/<Voice>
+dc!player delete <all>/<Voice>
 ```
 {% endtab %}
 
 {% tab title="Edit Radio Player" %}
 ```text
-dc!music edit <radio>
+dc!player edit <radio>
 ```
 {% endtab %}
 {% endtabs %}

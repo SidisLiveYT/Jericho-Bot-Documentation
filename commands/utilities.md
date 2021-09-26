@@ -9,7 +9,7 @@ description: >-
 ### 📺 260+ Game server status
 
 > _You can Setup Game Server Status for 260+ Games .  
-> A maximum  of 50 statuses can be made for a Server and can be deleted  and modified  anytime._
+> A maximum  of 200 statuses can be made for a Server and can be deleted  and modified  anytime._
 
 {% hint style="info" %}
 **`<Slot-Number>` present on Footer of the Game Server Status .**
@@ -219,7 +219,7 @@ dc!modmail close <reason/blank>
 {% endtab %}
 {% endtabs %}
 
-## 😀 Reaction Roles
+### 😀 Reaction Roles
 
 #### There Are Two Types of Config :-
 
@@ -250,6 +250,43 @@ dc!reactions edit <Message ID>
 {% tab title="Check" %}
 ```text
 dc!reactions check <Message ID/all>
+```
+{% endtab %}
+{% endtabs %}
+
+### 📣 Giveaways Manager
+
+1. **Auto : Jericho will Give the Description and in - future you can also Edit/Delete .**
+2. **Manual : You can Write your Own Message or Any Other Bot's Message , Just Mention the Message ID.**
+
+{% tabs %}
+{% tab title="Setup Giveaway" %}
+```text
+dc!giveaway setup <auto/mannual>
+```
+{% endtab %}
+
+{% tab title="Delete Giveaway" %}
+```
+dc!giveaway delete <GiveawayID/MessageID/all>
+```
+{% endtab %}
+
+{% tab title="Edit Giveaway" %}
+```
+dc!giveaway edit <GiveawayID/MessageID>
+```
+{% endtab %}
+
+{% tab title="Check Giveaway" %}
+```
+dc!giveaway check <GiveawayID/MessageID>
+```
+{% endtab %}
+
+{% tab title="Giveaways List" %}
+```text
+dc!giveaway list
 ```
 {% endtab %}
 {% endtabs %}

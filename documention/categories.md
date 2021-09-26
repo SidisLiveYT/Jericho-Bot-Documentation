@@ -23,7 +23,7 @@ description: >-
 4. [x] **Mod Mail**
 5. [x] **Reaction Roles**
 6. [ ] **Ticket System**
-7. [ ] **Giveaway System**
+7. [x] **Giveaway System**
 8. [ ] **Invite Tracker**
 9. [ ] **Tournament/Scrims Manager**
 10. [ ] **News/Updates Announcer**
@@ -33,8 +33,8 @@ description: >-
 > ****_Jericho can serve a High Quality Music with 24/7 Active Feature and Now it Supports Stage Channel too . Public Stage Channel is still on Development . But it will be Supported within 1 Month ._
 
 * [x] **24/7 Music Player \( Supports Stage Channel \)**
-* [ ] **24/7 Radio Player**
-* [ ] **Youtube/Twitch Television**
+* [x] **24/7 Radio Player**
+* [x] **Youtube Television**
 
 ### 🛡Jericho's Personals <a id="personals"></a>
 
