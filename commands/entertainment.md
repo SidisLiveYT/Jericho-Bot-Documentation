@@ -98,7 +98,7 @@ Join a **Voice Channel** where you want the Jericho to be **`24/7 Active`**. Aft
 
 {% tab title="Edit 24/7 Music Player" %}
 ```text
-dc!player edit <Voice/Channel>
+dc!player edit <blank/type>
 ```
 
 **Here,  
@@ -147,7 +147,7 @@ dc!player delete <all>/<Voice>
 
 {% tab title="Edit Radio Player" %}
 ```text
-dc!player edit <radio>
+dc!player edit <blank/type>
 ```
 {% endtab %}
 
